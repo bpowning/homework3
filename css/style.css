@@ -100,11 +100,11 @@ thead tr:last-child th:last-child{
 }
 
 tbody tr:last-child th:first-child{
-  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
 tbody tr:last-child td:last-child{
-  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 footer{
