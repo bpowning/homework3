@@ -66,6 +66,7 @@ table{
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
+  vertical-align: middle;
 }
 
 td{
@@ -114,7 +115,7 @@ footer{
   color: #FFFFFF;
   min-height: 75px;
   bottom: 0;
-  position: absolute;
+  position: fixed;
   left: 0px;
 }
 
